@@ -1,2 +1,2 @@
 # Inchirieri-auto
-I made a database about car rental, where the buyer could choose the details of the car, such as the year of manufacture or brand. For this, I used VBA, SQL coding and some Access menus.
+Am realizat o bază de date despre închiriat masini, unde cumpărătorul putea alege detaliile mașinii, cum ar fi anul de fabricație sau marca. Pentru aceasta, am folosit VBA, codificare SQL și câteva meniuri Access.
